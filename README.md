@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚙️ Learning/Mastering: C++, JS, HTML, CSS, MERN.
-💬 Ping me anytime.
-😄 Learning new things.
-⚡ Fun Fact: I prefer calls over texting.
+⚙️ Learning/Mastering: C++, JS, HTML, CSS, MERN
+💬 Ping me anytime
+😄 Learning new things
+⚡ Fun Fact: I prefer calls over texting
