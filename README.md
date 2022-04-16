@@ -1,4 +1,4 @@
-<p style="font-size: 22px;"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px" heigth="22px"></p>
+<h3> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px" heigth="22px"></h3>
 
 I am a Instrumentation and Control Engineering student at Vishwakarma Institute of Technology, Pune(VIT).
 <!--
