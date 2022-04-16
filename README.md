@@ -1,4 +1,4 @@
-### Hi there ![Hi](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" heigth="30px"></h1>
 
 I am a Instrumentation and Control Engineering student at Vishwakarma Institute of Technology, Pune(VIT).
 <!--
