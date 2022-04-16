@@ -1,6 +1,6 @@
 <h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px" heigth="22px"></h2>
 
-I'm a Instrumentation and Control Engineering student at Vishwakarma Institute of Technology, Pune(VIT).
+I'm a Intern at Cognizant Technology Solutions, Pune (PAS- Professional Analyst Trainee, Domain: Angular .net)
 <!--
 **rohitchaure9/rohitchaure9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
