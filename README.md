@@ -1,4 +1,4 @@
-### Hi there ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+### Hi there ![Hi](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 I am a Instrumentation and Control Engineering student at Vishwakarma Institute of Technology, Pune(VIT).
 <!--
