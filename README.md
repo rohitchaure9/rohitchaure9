@@ -1,4 +1,4 @@
-<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px" heigth="22px"></h2>
+/<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5px" heigth="5px"></h2>
 
 I'm a Intern at Cognizant Technology Solutions, Pune (PAS- Professional Analyst Trainee, Domain: Angular .net)
 <!--
