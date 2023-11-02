@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚙️ Mastering: C++, Linux Shell, JS, HTML, CSS, MERN, Flutter, MySQL
+- ⚙️ Mastering: C++, Linux Shell, JS, HTML, CSS, MERN, Flutter, MySQL, ReactJS, MongoDB, Java
 - 💬 Ping me anytime
 - 😄 Learning new things
 - ⚡ Fun Fact: I prefer calls over texting
