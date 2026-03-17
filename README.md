@@ -1,6 +1,6 @@
 <h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" heigth="25px"></h2>
 
-I'm a Intern at Cognizant Technology Solutions, Pune (PAS- Professional Analyst Trainee, Domain: Angular .net)
+I'm a Full Stack Developer at Axis Bank Fintech, Airoli,Mumbai (Deputy Manager, Domain: React JS, Redux, Mongo DB, Java, Jenkins)
 <!--
 **rohitchaure9/rohitchaure9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- ⚙️ Mastering: C++, Linux Shell, JS, HTML, CSS, MERN, Flutter, MySQL, ReactJS, MongoDB, Java
+- 🔭 I’m currently working on projects with full stack and AI background.
+- 🌱 I’m currently learning AI.
+- ⚙️ Mastering: C++, React JS, AI, Python, Redux,Linux Shell, JS, HTML, CSS, MERN, Flutter, MySQL, MongoDB, Java
 - 💬 Ping me anytime
 - 😄 Learning new things
 - ⚡ Fun Fact: I prefer calls over texting
